@@ -19,6 +19,10 @@ body{
     justify-content: space-evenly;
 }
 
+.space-between{
+    justify-content: space-between;
+}
+
 .align-center{
     align-items: center;
 }
@@ -44,6 +48,7 @@ nav>a{
 
 nav>a:hover{
     color: #A3CB38;
+    font-weight: bold;
 }
 
 header{
